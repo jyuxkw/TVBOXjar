@@ -3,7 +3,7 @@
 
 //0814
 //"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/custom_spider1.jar",
-"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/3.jar;md5;E4F55FB5313DC22982A3175655D3DDFE",
+"spider":"https://raw.fastgit.org/a67486795/TVBOX/main/3.jar;md5;E4F55FB5313DC22982A3175655D3DDFE",
 //"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/box2.jar",
 //"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/jar_0828.jar",
 //"spider":"https://agit.ai/a67486795/tvbox/raw/branch/master/jar/custom_spider.jar",

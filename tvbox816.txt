@@ -35,6 +35,7 @@
 {"key":"csp_IQIYI","name":"爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"555电影","name":"555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXB2/555%e7%94%b5%e5%bd%b1.json"},
+{"key":"乐猪","name":"乐猪影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXB2/%e4%b9%90%e7%8c%aa%e5%bd%b1%e8%a7%86.json"},
 {"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"真不卡(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXB2/%e7%9c%9f%e4%b8%8d%e5%8d%a1%e5%bd%b1%e9%99%a2%28%e4%b8%8d%e6%94%af%e6%8c%81%e6%90%9c%e7%b4%a2%29.json"},
 {"key":"csp_biubiu_大米星球","name":"大米星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXB2/%e5%a4%a7%e7%b1%b3%e6%98%9f%e7%90%83.json"},
 {"key":"csp_biubiu_达达龟","name":"达达龟(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/a67486795/tvbox/raw/branch/master/MaooXB2/%e8%be%be%e8%be%be%e9%be%9f.json"},

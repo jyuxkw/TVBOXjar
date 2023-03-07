@@ -1,4 +1,4 @@
-{"spider": "./jar/custom_spider.jar;md5;69ef6396eb2400c03529c7714d96841a",
+{"spider": "https://agit.ai/a67486795/tvbox/raw/branch/master/jar/custom_spider1.jar",
  "sites":[
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"bili","name":"B站 | Bili[jar]","type":3,"api":"csp_Bili","ext":"./js/音乐演唱.json"},
@@ -10,7 +10,7 @@
 {"key":"盘搜","name":"阿里 | 盘搜","type":3,"api":"csp_PanSou","ext":"./lib/token.txt"},
 {"key":"UP云搜","name":"阿里 | UP云搜","type":3,"api":"csp_UpYun","ext":"./lib/token.txt"},
 {"key":"找資源","name":"阿里 | 找資源","type":3,"api":"csp_Zhaozy","ext":"./lib/token.txt"},
-{"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
+{"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"https://raw.fastgit.org/a67486795/dr_py/master/libs/drpy2.min.js","ext":"https://raw.fastgit.org/a67486795/dr_py/master/js/360%E5%BD%B1%E8%A7%86.js"},
 {"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
 {"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
 {"key":"drpy_js_腾云驾雾","name":"官源 | 腾讯[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾.js"},
